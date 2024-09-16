@@ -54,8 +54,8 @@ ExaminationSystemDatabase/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Ahmedmohamed106/ExaminationSystemDatabase.git
-    cd ExaminationSystemDatabase
+    git clone https://github.com/HSN-Elshafei/Examination-Database-System-Using-SQL.git
+    cd Examination-Database-System-Using-SQL
     ```
 
 2. Open SQL Server Management Studio (SSMS) and connect to your SQL Server instance.
